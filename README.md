@@ -1,4 +1,4 @@
-`Project Name:` `Create Fake Data in Javascript to Use in React` \
+`Project Name:` Create Fake Data in Javascript to Use in React \
 `LIVE LINK:` https://create-fake-data-in-javascript-to-use-in-react.netlify.app/
 
 ### Using Method In This Project
